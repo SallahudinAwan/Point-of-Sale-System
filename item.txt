@@ -1,0 +1,8 @@
+<SKU><Description><Price><AvailableQuantity><CreationDate>
+00123;C++ Book;650;4;14/2/2019
+ku432;Dinner Set;15000;0;10/12/2019
+1000S;White Sugar;100;116;04/04/2018
+wad12;Cream;1000;197;19/4/2020
+wad23;CReam 12;2000;179;19/4/2020
+123GB;Mobile Phone;40000;11;19/4/2020
+786AT;Air COnditioner;50000;12;8/5/2020

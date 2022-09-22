@@ -1,0 +1,4 @@
+<SaleID><Customer><Receipt><date><status>
+1;36603-1234567-5;10/04/2020;Completed
+2;36603-1234567-5;14/04/2020;Completed
+3;36603-1234567-5;8/5/2020;Completed
